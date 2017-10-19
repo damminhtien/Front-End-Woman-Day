@@ -1,0 +1,15 @@
+{
+  "name": "20-10",
+  "version": "1.0.0",
+  "description": "chuc mung ngay phu nu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
